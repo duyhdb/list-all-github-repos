@@ -16,7 +16,7 @@ Project is created with:
 
 ## Setup
 To run this project, spin up terminal locally:
-``` bash
+```sh
 $ cd ../list-all-github-repos
 $ python3 githubrepos.py [USERNAME]
 ```
